@@ -27,7 +27,7 @@ Konfigurasi Model
 
 Saya sangat berterima kasih kepada:
 
-1. Kerem Karayağız yang telah menyediakan players dataset untuk Analysis Of The Most Expensive Football Players di Kaggle. Yang sangat membantu dalam pengembangan model analysis foodball.
+1. Kerem Karayağız yang telah menyediakan players dataset untuk Analysis Of The Most Expensive Football Players di Kaggle. Yang sangat membantu dalam pengembangan model analysis foodball.(https://www.kaggle.com/code/keremkarayaz/analysis-of-the-most-expensive-football-players/input)
 2. Naskah Publikasi_Prihananti Liazizah Putri, atas wawasan dan referensinya dalam bidang ini.(https://eprints.ums.ac.id/119132/3/Naskah%20Publikasi_Prihananti%20Liazizah%20Putri_B300200368.pdf?utm)
 
 #KecerdasanArtifisial
